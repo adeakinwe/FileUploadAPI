@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\FINTRAK-CREDIT360\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\FINTRAK-CREDIT360\\.nuget\\packages"
+    ]
+  }
+}
